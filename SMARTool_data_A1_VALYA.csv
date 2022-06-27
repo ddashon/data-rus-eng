@@ -211,7 +211,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 свет,210,"light, world",,N.Masc.Inan,A1,МН,3,свет,Nom.Sing,Свет Солнца доходит до Земли за восемь минут девятнадцать секунд.,Solar light reaches Earth in 8 minutes and 19 seconds.,,_,"люди, путешествие",25,
 желать,211,wish,,V,A1,"LM, МН",1,желаю,Imperf.Sing.1,Я желаю вам счастья и любви!,I wish you happiness and love!,,_,внутренний мир,18,
 желать,212,wish,,V,A1,"LM, МН",2,желает,Imperf.Sing.3,"Мы говорили ему пойти к врачу, но он не желает ничего слышать!","We told him to see doctor, but he doesn’t want to listen.",,_,внутренний мир,18,
-желать,213,wish,,V,A1,"LM, МН",3,желая,Imperf.Gerund,"Он поднялся на двадцатый этаж, желая увидеть фейерверк. ",He went to the 20th floor hoping to see the fireworks.,,_,внутренний мир,18,
+желать,213,wish,,V,B2,"LM, МН",3,желая,Imperf.Gerund,"Он поднялся на двадцатый этаж, желая увидеть фейерверк. ",He went to the 20th floor hoping to see the fireworks.,,_,внутренний мир,18,
 ответ,214,answer,,N.Masc.Inan,A1,МН,1,ответ,Acc.Sing,Я написала им письмо и теперь жду ответ.,I wrote them a letter and am now waiting for a response.,,_,люди,17,
 ответ,215,answer,,N.Masc.Inan,A1,МН,2,ответов,Gen.Plur,"Я задал много вопросов, но не получил на них ответов.",I asked many questions but didn’t get answers.,,_,люди,17,
 ответ,216,answer,,N.Masc.Inan,A1,МН,3,ответа,Gen.Sing,Он оставил мой вопрос без ответа.,He left my question unanswered.,,_,люди,17,
