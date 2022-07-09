@@ -147,8 +147,8 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 небо,2035,sky,,N.Neut.Inan,A2,LM,1,неба,Gen.Sing,Сфотографируй меня на фоне неба.,Take a picture of me against the sky.,,_,погода
 небо,2036,sky,,N.Neut.Inan,A2,LM,2,небе,Loc.Sing,Сегодня на небе очень много звёзд.,Today there are a lot of stars in the sky.,,_,погода
 небо,2037,sky,,N.Neut.Inan,A2,LM,3,небо,Nom.Sing,Небо сегодня мрачное.,The sky is gloomy today.,,_,погода
-несчастие,2038,misfortune,,N.Neut.Inan,A2,LM,1,несчастье,Nom.Sing,У нас случилось несчастье.,Something unfortunate happenned to us.,,_,внутренний мир
-несчастие,2039,misfortune,,N.Neut.Inan,A2,LM,2,несчастий,Gen.Plur,"Не расстраивайся из-за несчастий, всё будет хорошо!","Don't worry about misfortunes, everything will be fine!",,_,внутренний мир
+несчастье,2038,misfortune,,N.Neut.Inan,A2,LM,1,несчастье,Nom.Sing,У нас случилось несчастье.,Something unfortunate happenned to us.,,_,внутренний мир
+несчастье,2039,misfortune,,N.Neut.Inan,A2,LM,2,несчастий,Gen.Plur,"Не расстраивайся из-за несчастий, всё будет хорошо!","Don't worry about misfortunes, everything will be fine!",,_,внутренний мир
 несчастный,2040,unfortunate,,A,A2,LM,1,несчастная,Nom.Fem.Sing,Писателя погубила несчастная любовь.,An unfortunate love ruined the writer's life.,,_,"описание, внутренний мир"
 несчастный,2041,unfortunate,,A,A2,LM,2,несчастного,Anim.Acc.Masc.Sing,Он пытался вылечить несчастного больного.,He was trying to cure the unlucky patient.,,_,"описание, внутренний мир"
 несчастный,2042,unfortunate,,A,A2,LM,3,несчастных,Gen.Plur,В больнице много несчастных людей.,There are many unhappy people in the hospital.,,_,"описание, внутренний мир"
