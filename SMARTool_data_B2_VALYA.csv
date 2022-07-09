@@ -522,6 +522,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 будильник,5603,alarm clock,,N.Masc.Inan,B2,"LM, МН",1,будильник,Nom.Sing,"И только я заснула, как прозвенел будильник.","And as soon as I fell asleep, the alarm went off.",,_,время,,,
 будильник,5604,alarm clock,,N.Masc.Inan,B2,"LM, МН",2,будильника,Gen.Sing,Лучшее в отпуске — вставать без будильника.,The best thing on vacation is waking up without an alarm clock.,,_,время,,,
 будильник,5605,alarm clock,,N.Masc.Inan,B2,"LM, МН",3,будильники,Nom.Plur,"В этом доме были собраны все виды часов — и наручные, и настенные, и даже будильники.","In this house all kinds of clocks were collected — watches, wall clocks and even alarm clocks.",,_,время,,,
+будильник,9473,alarm clock,,N.Masc.Inan,B2,"LM, МН",4,будильнику,Ins.Sing,"В деревне мы ложились спать пораньше, вставали по будильнику, на завтрак ели кашу.","In the village we went to bed early, woke up to an alarm, and ate porridge for breakfast.",,_,время,,,
 будить,5606,wake somebody up,,V,B2,LM,1,будил,Imperf.Masc.Sing.Past,"Сегодня его никто не будил, он проснулся сам.","No one woke him up today, he woke up by himself.",,_,"люди, общение",,,
 будить,5607,wake somebody up,,V,B2,LM,2,будя,Imperf.Gerund,"По коридорам забегали сотрудники, будя отдыхающих.","Employees started running through the corridors, waking up the vacationers.",,_,"люди, общение",,,
 будить,5608,wake somebody up,,V,B2,LM,3,будить,Imperf.Inf,Не надо будить его! Пусть спит.,Don't wake him up! Let him sleep.,,_,"люди, общение",,,
