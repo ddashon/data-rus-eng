@@ -362,7 +362,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 район,361,neighborhood,,N.Masc.Inan,A1,"MiP, LM, МН",1,района,Gen.Sing,Эта девочка из нашего района.,This girl is from our neighborhood.,,_,"путешествие, жильё",32,
 район,362,neighborhood,,N.Masc.Inan,A1,"MiP, LM, МН",2,районе,Loc.Sing,В нашем районе много магазинов.,There are many shops in our neighborhood.,,_,"путешествие, жильё",32,
 район,363,neighborhood,,N.Masc.Inan,A1,"MiP, LM, МН",3,районах,Loc.Plur,Что интересного есть в ваших районах?,What interesting things do you have in your neighborhoods?,,_,"путешествие, жильё",32,
-любовь,364,love,,N.Fem.Inan,A1,"LM, МН",1,любовь,Nom.Sing,Это была любовь с первого взгляда.,It was love from first sight.,,_,"внутренний мир, люди",26,
+любовь,364,love,,N.Fem.Inan,A1,"LM, МН",1,любовь,Nom.Sing,Это была любовь с первого взгляда.,It was love at first sight.,,_,"внутренний мир, люди",26,
 любовь,365,love,,N.Fem.Inan,A1,"LM, МН",2,любви,Gen.Sing,Трудно жить без любви.,It's hard to live without love.,,_,"внутренний мир, люди",26,
 любовь,366,love,,N.Fem.Inan,A1,"LM, МН",3,любовью,Ins.Sing,Моя мама всегда готовит с любовью.,My mom always cooks with love.,,_,"внутренний мир, люди",26,
 называться,367,be called,,V,A1,"MiP, LM, МН",1,называется,Imperf.Sing.3,Как называется этот цветок?,What is the name of this flower?,,_,описание,25,
