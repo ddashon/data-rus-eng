@@ -556,6 +556,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 заяц,3389,hare,,N.Masc.Anim,B1,LM,1,заяц,Nom.Sing,"Мы зашли в лес и увидели, что под кустом сидит заяц.",We went into the forest and saw a hare sitting under a bush.,,_,животные/растения,,
 заяц,3390,hare,,N.Masc.Anim,B1,LM,2,зайца,Gen.Sing,"У зайца глаза расположены так, что он замечает почти всё, что происходит вокруг.",A hare's eyes are positioned so that it notices almost everything that's happening around.,,_,животные/растения,,
 заяц,3391,hare,,N.Masc.Anim,B1,LM,3,зайцы,Nom.Plur,Зайцы на зиму становятся совершенно белыми.,Hares turn completely white in winter.,,_,животные/растения,,
+заяц,9478,hare,,N.Masc.Anim,B1,LM,4,зайцем,Ins.Sing,"Вы умеете ездить на автобусе зайцем?","Do you know how to travel by bus without a ticket?",,_,"животные/растения, транспорт",,
 звезда,3392,star,,N.Fem.Inan,B1,LM,1,звёзд,Gen.Plur,В ясную ночь на небе видны тысячи звёзд.,Thousands of stars can be seen in the sky on a clear night.,,_,погода,,
 звезда,3393,star,,N.Fem.Inan,B1,LM,2,звезды,Gen.Sing,Даже от близкой звезды свет доходит до Земли с большим опозданием.,It takes a long time for the light even from nearby stars to reach the Earth.,,_,погода,,
 звезда,3394,star,,N.Fem.Inan,B1,LM,3,звёзды,Nom.Plur,"Какие, кроме Солнца, ближайшие к Земле звёзды?","Except for the Sun, what are the closest stars to the Earth?",,_,погода,,
