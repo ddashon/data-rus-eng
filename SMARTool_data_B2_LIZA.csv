@@ -1300,7 +1300,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 помыть,9298,wash,,V,B2,LM,2,помою,Perf.Sing.1,"Я помою полы завтра, сейчас я устал.","I will wash the floors tomorrow, I'm tired now.",,_,здоровье,,
 помыть,9299,wash,,V,B2,LM,3,помыли,Perf.Plur.Past,Врачи помыли руки и начали операцию.,The doctors washed their hands and started the operation.,,_,здоровье,,
 поправка,9300,"recovery, correction",,N.Fem.Inan,B2,LM,1,поправки,Acc.Plur,Совет Госдумы рассмотрел поправки к новому закону.,The State Duma Council has considered amendments to the new law.,,_,политика,,
-поправка,9301,"recovery, correction",,N.Fem.Inan,B2,LM,2,поправку,Acc.Sing,Депутаты одобрили новую поправку к закону о домашнем насилии.,The deputies approved a new amendment to the law on domestic violence.,,_,политика,,
+поправка,9301,"recovery, correction",,N.Fem.Inan,B2,LM,2,поправку,Acc.Sing,"После долгой болезни моя дочь наконец-то пошла на поправку.","After a long illness, my daughter is finally on the mend.",,_,здоровье,,
 поправка,9302,"recovery, correction",,N.Fem.Inan,B2,LM,3,поправка,Nom.Sing,Вторая поправка ограничивает возможности региональных властей.,The second amendment limits the powers of regional authorities.,,_,политика,,
 помыться,9303,wash,,V,B2,LM,1,помыться,Perf.Inf,Мечтаю уже приехать домой и поскорее помыться.,My wish is to come home and have a wash as soon as possible.,,_,здоровье,,
 помыться,9304,wash,,V,B2,LM,2,помылся,Perf.Masc.Sing.Past,"Константин встал рано, помылся, оделся и пошёл на работу.","Konstantin got up early, washed, got dressed and went to work.",,_,здоровье,,
