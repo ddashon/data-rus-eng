@@ -422,9 +422,9 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 посоветовать,2310,recommend,,V,A2,"Golosa, LM",1,посоветовать,Perf.Inf,Что ты можешь посоветовать в этой ситуации?,What's your advice in this situation?,,_,общение
 посоветовать,2311,recommend,,V,A2,"Golosa, LM",2,посоветовали,Perf.Plur.Past,Друзья посоветовали мне прочитать эту книгу.,My friends told me to read this book.,,_,общение
 посоветовать,2312,recommend,,V,A2,"Golosa, LM",3,посоветовал,Perf.Masc.Sing.Past,Вася посоветовал мне сходить к психологу.,Vasya advised me to go to a psychologist.,,_,общение
-посол,2313,embassador,,N.Masc.Anim,A2,LM,1,посол,Nom.Sing,Посол Великобритании сделал сенсационное заявление.,British ambassador made a sensational statement.,,_,"люди, политика, учёба/работа"
-посол,2314,embassador,,N.Masc.Anim,A2,LM,2,посла,Gen.Sing,Интервью американского посла вызвало бурную реакцию.,An interview with the US ambassador caused a furious reaction.,,_,"люди, политика, учёба/работа"
-посол,2315,embassador,,N.Masc.Inan,A2,LM,3,после,Loc.Sing,Что вы думаете о после Нидерландов и его поведении в этой ситуации?,What do you think about the ambassador of the Netherlands and his behavior in this situation?,,_,"люди, политика, учёба/работа"
+посол,2313,ambassador,,N.Masc.Anim,A2,LM,1,посол,Nom.Sing,Посол Великобритании сделал сенсационное заявление.,British ambassador made a sensational statement.,,_,"люди, политика, учёба/работа"
+посол,2314,ambassador,,N.Masc.Anim,A2,LM,2,посла,Gen.Sing,Интервью американского посла вызвало бурную реакцию.,An interview with the US ambassador caused a furious reaction.,,_,"люди, политика, учёба/работа"
+посол,2315,ambassador,,N.Masc.Inan,A2,LM,3,после,Loc.Sing,Что вы думаете о после Нидерландов и его поведении в этой ситуации?,What do you think about the ambassador of the Netherlands and his behavior in this situation?,,_,"люди, политика, учёба/работа"
 посольство,2316,embassy,,N.Neut.Inan,A2,LM,1,посольство,Nom.Sing,Посольство Франции отказалось от комментариев.,The Embassy of France declined to comment.,,_,"политика, учёба/работа"
 посольство,2317,embassy,,N.Neut.Inan,A2,LM,2,посольства,Gen.Sing,Мой отец работает пресс-секретарём российского посольства.,My father is a press secretary in the Russian Embassy.,,_,"политика, учёба/работа"
 посольство,2318,embassy,,N.Neut.Inan,A2,LM,3,посольстве,Loc.Sing,Муж моей подруги работает в посольстве и часто ездит в комадировки.,My friend's husband works in the embassy and often goes on business trips.,,_,"политика, учёба/работа"
