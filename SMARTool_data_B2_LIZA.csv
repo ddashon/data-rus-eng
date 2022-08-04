@@ -1465,3 +1465,6 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 почётный,9463,honorary,,A,B2,LM,1,почётным,Ins.Masc.Sing,Василий Витальевич был приглашён почётным гостем на заседание партии.,Vasily Vitalyevich was invited to the party meeting as an honored guest.,,_,"люди, мера, общение",,
 почётный,9464,honorary,,A,B2,LM,2,почётного,Gen.Masc.Sing,Ротой почётного караула командует капитан Рыбников.,The silent drill platoon is commanded by Captain Rybnikov.,,_,"люди, мера, общение",,
 почётный,9465,honorary,,A,B2,LM,3,почётное,Inan.Acc.Neut.Sing,Команда по плаванию заняла почётное третье место.,The swimming team came in an honorable third place.,,_,"люди, мера, общение",,
+шумный,9503,noisy,,A,B2,LM,1,шумных,Gen.Pl,"Мы устали от шумных соседей.","We're tired of our noisy neighbors.",,_,"описание, мера",,,
+шумный,9504,noisy,,A,B2,LM,2,шумные,Inan.Acc.Plur,"Она постоянно устраивает шумные вечеринки со знаменитостями.","She constantly throws noisy parties with celebrities.",,_,"описание, мера",,,
+шумный,9505,noisy,,A,B2,LM,3,шумно,Adv,"Давай пойдём домой, тут слишком шумно.","Let's go home, it's too noisy in here.",,_,"описание, мера",,,
