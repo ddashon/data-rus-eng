@@ -446,9 +446,9 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 поэзия,2334,poetry,,N.Fem.Inan,A2,"Golosa, LM",1,поэзии,Gen.Sing,"Начало девятнадцатого века – это ""золотой век"" русской поэзии.","The beginning of the 19th century is the ""golden age"" of Russian poetry.",,_,свободное время
 поэзия,2335,poetry,,N.Fem.Inan,A2,"Golosa, LM",2,поэзия,Nom.Sing,Мне очень нравится поэзия Сергея Есенина.,I really love Sergei Yesenin‘s poetry.,,_,свободное время
 поэзия,2336,poetry,,N.Fem.Inan,A2,"Golosa, LM",3,поэзию,Acc.Sing,"Я не люблю поэзию, мне больше нравится проза.",I don't like poetry and prefer prose instead.,,_,свободное время
-появляться,2337,appear,,V,A2,LM,1,появляется,Perf.Sing.3,"Когда появляется возможность и время, я бегаю по утрам.","When I have the opportunity and time, I run in the morning.",,_,описание
-появляться,2338,appear,,V,A2,LM,2,появляются,Perf.Plur.3,Сейчас у человека появляются возможности работать из любой точки мира.,Now people have the opportunity to work from any place on Earth.,,_,описание
-появляться,2339,appear,,V,A2,LM,3,появлялись,Perf.Plur.Past,Мы уехали на дачу и не появлялись дома со среды. А что случилось?,We went to our cottage and haven’t been home since Wednesday. What happened?,,_,описание
+появляться,2337,appear,,V,A2,LM,1,появляется,Imperf.Sing.3,"Когда появляется возможность и время, я бегаю по утрам.","When I have the opportunity and time, I run in the morning.",,_,описание
+появляться,2338,appear,,V,A2,LM,2,появляются,Imperf.Plur.3,Сейчас у человека появляются возможности работать из любой точки мира.,Now people have the opportunity to work from any place on Earth.,,_,описание
+появляться,2339,appear,,V,A2,LM,3,появлялись,Imperf.Plur.Past,Мы уехали на дачу и не появлялись дома со среды. А что случилось?,We went to our cottage and haven’t been home since Wednesday. What happened?,,_,описание
 правда,2340,truth,,N.Fem.Inan,A2,"Golosa, MiP, LM",1,правда,Nom.Sing,"Я слышал, ты переезжаешь в Германию. Это правда?",I heard you're moving to Germany. Is it true?,,_,"внутренний мир, общение"
 правда,2341,truth,,N.Fem.Inan,A2,"Golosa, MiP, LM",2,правду,Acc.Sing,Не всегда приятно говорить правду.,It's not always pleasant to tell the truth.,,_,"внутренний мир, общение"
 правда,2342,truth,,N.Fem.Inan,A2,"Golosa, MiP, LM",3,правды,Gen.Sing,Поклянись говорить только правду и ничего кроме правды.,Swear to tell the truth and nothing but the truth.,,_,"внутренний мир, общение"
