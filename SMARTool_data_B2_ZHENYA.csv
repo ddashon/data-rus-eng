@@ -756,7 +756,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 клубника,7290,strawberry,,N.Fem.Inan,B2,"LM, Поехали",1,клубникой,Ins.Sing,Катя угостила меня тортом с клубникой.,Katya gave me a strawberry cake.,,_,"еда, животные/растения",,,
 клубника,9479,strawberry,,N.Fem.Inan,B2,"LM, Поехали",2,клубнику,Acc.Sing,"Помнишь, как в детстве мы сидели на крыльце и ели клубнику?","Remember how we used to sit on the porch and eat strawberries as kids?",,_,"еда, животные/растения",,,
 клюква,9480,cranberry,,N.Fem.Inan,B2,LM,2,клюкву,Acc.Sing,"Каждую осень мы с бабушкой собирали клюкву на болотах.","Every autumn, my grandmother and I picked cranberries in the swamps.",,_,"еда, животные/растения",,,
-клюква,9481,cranberry,,N.Fem.Inan,B2,LM,3,клюквы,Gen.Sing,"Вчера Костя набрал целое ведёрко клюквы.","Yesterday Kostya picked a whole bucket of cranberries.",,,_,"еда, животные/растения",,,
+клюква,9481,cranberry,,N.Fem.Inan,B2,LM,3,клюквы,Gen.Sing,"Вчера Костя набрал целое ведёрко клюквы.","Yesterday Kostya picked a whole bucket of cranberries.",,_,"еда, животные/растения",,,
 клюква,7291,cranberry,,N.Fem.Inan,B2,LM,1,клюква,Nom.Sing,Клюква растёт около болот.,Cranberries grow near swamps.,,_,"еда, животные/растения",,,
 код,7292,code,,N.Masc.Inan,B2,"Golosa, LM",1,код,Nom.Sing,Исходный код программы может быть прочтён человеком.,The source code of the program can be read by people.,,_,учёба/работа,,,
 код,7293,code,,N.Masc.Inan,B2,"Golosa, LM",2,кода,Gen.Sing,Сложные программы содержат миллионы строк кода.,Complex programs contain millions of lines of code.,,_,учёба/работа,,,
