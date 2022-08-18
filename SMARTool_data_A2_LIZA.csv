@@ -468,3 +468,6 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 яркий,2832,bright,,A,A2,LM,1,ярких,Gen.Plur,Желаю тебе много ярких дней!,I wish you a lot of bright days!,,_,описание,,
 яркий,2833,bright,,A,A2,LM,2,яркие,Nom.Plur,У неё были яркие голубые глаза.,She had bright blue eyes.,,_,описание,,
 яркий,2834,bright,,A,A2,LM,3,яркий,Nom.Masc.Sing,Ей нравится яркий цвет в одежде.,She likes bright colors in clothes.,,_,описание,,"This is supposed to be Nominative, not Accusative."
+счастье,9506,happiness,,N.Neut.Inan,A2,LM,1,счастья,Gen.Sing, “Желаем вам счастья и здоровья!”,“We wish you happiness and good health!”,,_,внутренний мир,,
+счастье,9507,happiness,,N.Neut.Inan,A2,LM,2,счастью,Dat.Sing,"К счастью, я не заболел.","Fortunately, I didn't get sick.",,_,внутренний мир,,
+счастье,9508,happiness,,N.Neut.Inan,A2,LM,3,счастье,Acc.Sing,"Не плачь, ты ещё найдёшь своё счастье!","Don’t cry, you will find your happiness someday!",,_,внутренний мир,,
