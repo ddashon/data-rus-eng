@@ -1468,3 +1468,6 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 шумный,9503,noisy,,A,B2,LM,1,шумных,Gen.Pl,"Мы устали от шумных соседей.","We're tired of our noisy neighbors.",,_,"описание, мера",,,
 шумный,9504,noisy,,A,B2,LM,2,шумные,Inan.Acc.Plur,"Она постоянно устраивает шумные вечеринки со знаменитостями.","She constantly throws noisy parties with celebrities.",,_,"описание, мера",,,
 шумный,9505,noisy,,A,B2,LM,3,шумно,Adv,"Давай пойдём домой, тут слишком шумно.","Let's go home, it's too noisy in here.",,_,"описание, мера",,,
+удача,9509,luck,,N.Fem.Inan,B2,LM,1,удачи,Gen.Sing,“Желаю вам счастья и удачи в Новом году!”, “I wish you happiness and good luck in the New Year!”,,_,учёба/работа,,
+удача,9510,luck,,N.Fem.Inan,B2,LM,2,удача,Nom.Sing,"Удача приходит к тем, кто не сдаётся.",“Luck comes to those who don't give up.”,,_,учёба/работа,,
+удача,9511,luck,,N.Fem.Inan,B2,LM,3,удачу,Acc.Sing,“Старушка сказала, что этот браслет приносит удачу.”,“The old woman said that this bracelet brings good luck.”,,_,учёба/работа,,
