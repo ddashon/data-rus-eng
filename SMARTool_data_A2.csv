@@ -471,7 +471,6 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 счастье,9506,happiness,,N.Neut.Inan,A2,LM,1,счастья,Gen.Sing, “Желаем вам счастья и здоровья!”,“We wish you happiness and good health!”,,_,внутренний мир,,
 счастье,9507,happiness,,N.Neut.Inan,A2,LM,2,счастью,Dat.Sing,"К счастью, я не заболел.","Fortunately, I didn't get sick.",,_,внутренний мир,,
 счастье,9508,happiness,,N.Neut.Inan,A2,LM,3,счастье,Acc.Sing,"Не плачь, ты ещё найдёшь своё счастье!","Don’t cry, you will find your happiness someday!",,_,внутренний мир,,
-Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,User language translation,English translation,Reference,Topic(s),Lesson,
 аппетит,1416,appetite,,N.Masc.Inan,A2,"MiP, LM",1,аппетит,Acc.Sing,Пойдем в лес! Заодно аппетит нагуляем.,Let’s go to the forest! We’ll work up an appetite at the same time.,,_,"еда, здоровье",,
 аппетит,1417,appetite,,N.Masc.Inan,A2,"MiP, LM",2,аппетиты,Nom.Plur,"Их бизнес только начал приносить прибыль, и аппетиты сразу же выросли.","Their business just started to bring them the first profit, and their appetites grew immediately.",,_,"еда, здоровье",,
 аппетит,1418,appetite,,N.Masc.Inan,A2,"MiP, LM",3,аппетитом,Ins.Sing,"Только посмотрите, с каким аппетитом Вася ест суп!",Just look at Vasya eating soup with such appetite!,,_,"еда, здоровье",,
@@ -946,7 +945,6 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 коридор,1887,corridor,,N.Masc.Inan,A2,"Golosa, MiP, LM",1,коридоре,Loc.Sing,"В коридоре отключился свет, и теперь там ничего не видно.",The light in the corridor is out and now we can’t see anything there.,,_,жильё,,
 коридор,1888,corridor,,N.Masc.Inan,A2,"Golosa, MiP, LM",2,коридор,Acc.Sing,"Выйди в коридор, нужно встретить гостей.",We need to go to the corridor to greet our guests.,,_,жильё,,
 коридор,1889,corridor,,N.Masc.Inan,A2,"Golosa, MiP, LM",3,коридору,Dat.Sing,"Я упала, когда шла по этому коридору.",I fell when I was walking down that corridor.,,_,жильё,,
-Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,User language translation,English translation,Reference,Topic(s),Lesson,
 короткий,1890,short,,A,A2,"Golosa, LM",1,короткие,Inan.Acc.Plur,Я люблю носить короткие юбки.,I love to wear short skirts.,,_,"мера, описание"
 короткий,1891,short,,A,A2,"Golosa, LM",2,короткий,Nom.Masc.Sing,Это короткий путь до моего дома.,This is a shortcut to my house.,,_,"мера, описание"
 короткий,1892,short,,A,A2,"Golosa, LM",3,коротких,Gen.Plur,Я написал пару коротких рассказов.,I've written a couple of short stories.,,_,"мера, описание"
