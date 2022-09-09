@@ -876,7 +876,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 золотой,1820,golden,,A,A2,LM,1,золотую,Acc.Fem.Sing,"Она претендовала на золотую медаль в беге, но её обогнала менее опытная спортсменка.",She was trying to get a gold medal in running but a less experienced competitor outran her.,,_,"описание, магазин",,
 золотой,1821,golden,,A,A2,LM,2,золотой,Nom.Masc.Sing,Где мой любимый золотой браслет? Я нигде не могу его найти. ,Where is my favorite golden bracelet? I can't find it anywhere.,,_,"описание, магазин",,
 золотой,1822,golden,,A,A2,LM,3,золотое,Nom.Neut.Sing,Мне очень нравится это золотое кольцо! Я хочу его купить.,I really like that gold ring! I want to buy it.,,_,"описание, магазин",,
-зонтик,1823,umbrella,,N.Masc.Inan,A2,LM,1,зонтик,Nom.Sing,У меня сломался зонтик. Надо срочно купить новый.,My umbrella got broken. I need to buy a new one right away.,,_,"магазин, погода",,
+зонтик,1823,umbrella,,N.Masc.Inan,A2,LM,1,зонтик,Acc.Sing,"Сегодня дождь, не забудь взять зонтик.","It's raining today, don't forget to take an umbrella.",,_,"магазин, погода",,
 зонтик,1824,umbrella,,N.Masc.Inan,A2,LM,2,зонтики,Acc.Plur,"Ты всё теряешь ― зонтики, кошельки, ключи...","You loose everything -- umbrellas, wallets, keys...",,_,"магазин, погода",,
 зонтик,1825,umbrella,,N.Masc.Inan,A2,LM,3,зонтиком,Ins.Sing,Как приятно вместе идти под зонтиком!,How nice it is to walk together under the same umbrella.,,_,"магазин, погода",,
 зуб,1826,tooth,,N.Masc.Inan,A2,"Golosa, LM",1,зуб,Nom.Sing,У меня болит зуб. Надо записаться к врачу.,I have a toothache. I need to get an appointment with my dentist.,,_,здоровье,,
