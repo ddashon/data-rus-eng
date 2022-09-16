@@ -1,6 +1,36 @@
 # Data used by https://github.com/smartool/smartool-rus-eng.
 
 
+## General information
+
+Title of the dataset: "Data used by SMARTool for English-speaking learners of Russian"
+
+DOI: (to be filled out later)
+
+Contact information:
+- Name: Laura A. Janda
+- Institution: UiT The Arctic University of Norway
+- Email: laura.janda@uit.no
+- ORCID: https://orcid.org/0000-0001-5047-1909
+
+
+## Terms of reuse
+
+The dataset is provided under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+
+## Data and file overview
+
+- README.md: this file
+- SMARTool_data_A1.csv: example sentences for the A1 level
+- SMARTool_data_A2.csv: example sentences for the A2 level
+- SMARTool_data_B1.csv: example sentences for the B1 level
+- SMARTool_data_B2.csv: example sentences for the B2 level
+- SMARTool_data_Abbreviations.csv: mapping abbreviations to their full names
+- SMARTool_data_Terms.csv: mapping grammatical terms to their full names
+- SMARTool_data_Topics.csv: mapping topics to their translations
+
+
 ## Authors
 
 - Bast, Radovan (UiT The Arctic University of Norway) - ORCID: 0000-0002-7658-1847
@@ -15,11 +45,6 @@
 - Tyers, Francis M. (Indiana University) - ORCID: 0000-0001-6108-2220
 - Zhukova, Valentina (UiT The Arctic University of Norway) - ORCID: 0000-0002-8058-6480
 - Elizaveta Kibisova (Higher School of Economics in Moscow) - ORCID: 0000-0001-8922-9239
-
-
-## Contact
-
-Janda, Laura (UiT The Arctic University of Norway)
 
 
 ## Description
