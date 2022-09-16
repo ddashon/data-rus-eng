@@ -8,7 +8,7 @@ Title of the dataset: "Data used by SMARTool for English-speaking learners of Ru
 DOI: (to be filled out later)
 
 Contact information:
-- Name: Laura A. Janda
+- Name: Janda, Laura A.
 - Institution: UiT The Arctic University of Norway
 - Email: laura.janda@uit.no
 - ORCID: https://orcid.org/0000-0001-5047-1909
