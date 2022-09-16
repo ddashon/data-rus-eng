@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/license-%20CC--BY-blue.svg)](LICENSE)
+
+
 ## General information
 
 Title of the dataset: "Data used by SMARTool for English-speaking learners of Russian"
