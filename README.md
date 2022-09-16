@@ -75,7 +75,7 @@ filters that facilitate searching by: a) CEFR Level, b) Topic (such as
 Ins.Sing, facilitating grammatical exercises), and d) Dictionary form.
 
 
-## Related Publications
+## Related publications
 
 1.  Janda, Laura A. and Francis M. Tyers. 2018. Less is More: Why All
     Paradigms are Defective, and Why that is a Good Thing. *Corpus
@@ -112,13 +112,13 @@ Language: English
 
 Producer: UiT The Arctic University of Norway
 
-Production Place: Norway
+Production place: Norway
 
-Grant Information: The Norwegian Agency for International Cooperation and
+Grant information: The Norwegian Agency for International Cooperation and
 Quality Enhancement in Higher Education (Diku): CPRU-2017/10027
 
-Kind of Data: textual linguistic data
+Kind of data: textual linguistic data
 
-Data Sources: The illustrative material provided for each word form consists of
+Data sources: The illustrative material provided for each word form consists of
 authentic sentences created by native speakers of Russian and inspired data
 from the [Russian National Corpus](https://ruscorpora.ru/).
