@@ -23,7 +23,7 @@ The dataset is provided under the [CC-BY 4.0 license](https://creativecommons.or
 
 ## Data and file overview
 
-- README.md: this file
+- README.md: contains metadata about the dataset
 - SMARTool_data_A1.csv: example sentences for the A1 level
 - SMARTool_data_A2.csv: example sentences for the A2 level
 - SMARTool_data_B1.csv: example sentences for the B1 level
