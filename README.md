@@ -1,6 +1,3 @@
-# Data used by https://github.com/smartool/smartool-rus-eng.
-
-
 ## General information
 
 Title of the dataset: "Data used by SMARTool for English-speaking learners of Russian"
@@ -12,6 +9,8 @@ Contact information:
 - Institution: UiT The Arctic University of Norway
 - Email: laura.janda@uit.no
 - ORCID: https://orcid.org/0000-0001-5047-1909
+
+Data used by: https://github.com/smartool/smartool-rus-eng
 
 
 ## Terms of reuse
